@@ -1,0 +1,7 @@
+{
+  "name": "zlib-testing",
+  "version": "0.0.1",
+  "dependencies": {
+    "async": "^1.2.1"
+  }
+}
